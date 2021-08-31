@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niimir
 - 👀 I’m interested in making a working discord bot.
 - 🌱 I’m currently learning Java and Python.
-- 📫 How to reach me : niimir.p@gmail.com
+- 📫 How to reach me on Discord at "Niimir#2707"
 
 <!---
 Niimir/Niimir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
