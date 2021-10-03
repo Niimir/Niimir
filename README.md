@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niimir
-- 👀 I’m interested in making a working discord bot.
+- 👀 I’m interested in making a non-broken discord bot.
 - 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me on Discord: "Niimir#2707"
 
