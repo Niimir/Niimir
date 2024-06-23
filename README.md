@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Niimir
-- 👀 I’m interested in making things that people like.
-- 🌱 I’m currently learning Unity.
-- 📫 How to reach me on Discord: "Niimir#2707"
+👋  Hi, I’m @Niimir! I primarily work in security, but enjoy making commits from time to time.
+
+📫  You can reach me through Twitter/X at the links provided, or on Discord at "Niimir".
 
 <!---
 Niimir/Niimir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
